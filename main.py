@@ -28,4 +28,4 @@ def computador_advinha(x):
 
     print(f'O computador advinhou seu numero {advinhe},corretamente.')
 
-computador_advinha(10)
+computador_advinha(25)
